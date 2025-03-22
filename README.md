@@ -5,7 +5,7 @@
 
 <ul>
   <li>📚 I’m in my second year of <strong>IT Engineering</strong> at Adventist University of the Plata</li>
-  <li>🌱 I’m currently learning <strong>Ruby & Ruby on Rails</strong></li>
+  <li>🌱 I’m currently learning <strong>C#</strong></li>
   <li>👯 I’m looking to collaborate on <strong>open source projects</strong></li>
   <li>📫 Contact me: <a href="mailto:milenaseri@outlook.com">milenaseri@outlook.com</a></li>
 </ul>
@@ -16,6 +16,8 @@
 <p align="left">
 <!-- Python -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<!-- C# -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="40" height="40"/>
 <!-- Ruby -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
  <!-- Ruby on Rails -->
