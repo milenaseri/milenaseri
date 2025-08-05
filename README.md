@@ -5,7 +5,7 @@
 
 <ul>
   <li>📚 I’m in my second year of <strong>IT Engineering</strong> at Adventist University of the Plata</li>
-  <li>🌱 I’m currently learning <strong>C#</strong></li>
+  <li>🌱 I’m learning about <strong>microservices</strong>, <strong>design patterns</strong>, and <strong>systems administration</strong></li>
   <li>👯 I’m looking to collaborate on <strong>open source projects</strong></li>
   <li>📫 Contact me: <a href="mailto:milenaseri@outlook.com">milenaseri@outlook.com</a></li>
 </ul>
